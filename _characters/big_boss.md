@@ -1,4 +1,5 @@
 ---
+id: bigboss
 type: object
 cataegory: character
 name: Big Boss

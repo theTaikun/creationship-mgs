@@ -1,5 +1,6 @@
 ---
-type: relation
+id: solidsnake_headband
+type: relationship
 category: owner
 start: solid snake
 end: headband

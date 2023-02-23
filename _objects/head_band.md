@@ -1,7 +1,8 @@
 ---
+id: headband
 type: object
 category: object
-name: headband
+name: Headband
 ---
 
 * Worn by multiple characters

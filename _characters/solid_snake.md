@@ -1,4 +1,5 @@
 ---
+id: solidsnake
 type: object
 category: character
 name: Solid Snake
