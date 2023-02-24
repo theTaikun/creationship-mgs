@@ -2,7 +2,7 @@
 id: solidsnake_headband
 type: relationship
 category: owner
-start: solid snake
+start: solidsnake
 end: headband
 ---
 

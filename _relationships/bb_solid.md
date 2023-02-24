@@ -2,8 +2,8 @@
 id: bigboss_solidsnake
 type: relationship
 category: family
-start: Big Boss
-end: Solid Snake
+start: bigboss
+end: solidsnake
 label: Father
 ---
 
