@@ -4,7 +4,7 @@ type: relationship
 category: frenemy
 start: bigboss
 end: theboss
-label: Protege
+name: Protege
 ---
 
 * The Boss trained Naked Snake

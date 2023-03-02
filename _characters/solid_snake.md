@@ -1,6 +1,6 @@
 ---
 id: solidsnake
-type: object
+type: node
 category: character
 name: Solid Snake
 VA: David Hayter

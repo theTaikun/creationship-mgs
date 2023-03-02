@@ -1,6 +1,6 @@
 ---
 id: liquidsnake
-type: object
+type: node
 category: character
 name: Liquid Snake
 ---

@@ -1,6 +1,6 @@
 ---
 id: bigboss
-type: object
+type: node
 cataegory: character
 name: Big Boss
 ---

@@ -1,6 +1,6 @@
 ---
 id: headband
-type: object
+type: node
 category: object
 name: Headband
 ---

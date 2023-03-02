@@ -4,7 +4,7 @@ type: relationship
 category: owner
 start: theboss
 end: headband
-label: Owner
+name: Owner
 ---
 
 Worn by The Boss throughout MGS3,

@@ -4,7 +4,7 @@ type: relationship
 category: family
 start: bigboss
 end: solidsnake
-label: Father
+name: Father
 ---
 
 Big Boss' DNA used to make Solid Snake clone
